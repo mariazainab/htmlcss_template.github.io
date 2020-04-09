@@ -1,0 +1,310 @@
+body {
+	font-family: 'Roboto slab', serif;
+}
+
+.navbar-custom {
+	padding: 10px;
+}
+
+.navbar-custom .navbar-nav>li>a {
+	color: #fff !important;
+	font-size: 19px;
+	margin-left: 13px;
+}
+
+.navbar-custom .navbar-nav>.active>a {
+	color: #fff;
+	background-color: #82c434;
+}
+
+.navbar-custom .navbar-nav>li>a:hover {
+	background-color: #82c434;
+	color: #fff;
+} 
+
+.navbar-custom .navbar-brand {
+	color: #fff;
+	font-size: 27px;
+	margin-left: 15px;
+}
+
+.carousel-caption {
+	color: #fff;
+	position: absolute;
+	top: 35%;
+	left: -20px;
+}
+
+b{
+	font-size: 40px;
+	border-bottom-style: ridge;
+	font-weight: bold;
+	border-bottom-color: #82c343;
+}
+
+.Services {
+	font-size: 45px;
+	border-bottom-style: ridge;
+	border-bottom-color: #82c343;
+	width: 17%;
+	font-weight: bold;
+}
+
+.paragraph {
+	font-size: 24px;
+}
+
+.col1 {
+	border-style: solid;
+	border-color: #999999;
+	border-width: 1px;
+	min-height: 350px;
+}
+
+.icons {
+	width: 130px;
+	font-size: 60px;
+	background-color: #d9d9d9;
+	padding: 5px 10px;
+	height: 110px;
+	margin-top: -50px;
+	color: #82c434;
+}
+
+.st-text {
+	font-size: 22px;
+}
+
+.para1 {
+	font-size: 16px;
+	margin-top: 20px;
+}
+
+.btn-primary {
+	background-color: #82c434;
+	border-radius: 0px;
+	border-color: #82c434;
+}
+
+#about {
+	width: 100%;
+	min-height: 600px;
+	background-color: #282e3e;
+	margin-top: 50px;
+}
+
+.aboutcompany {
+	width: 33%;
+	font-size: 55px;
+	border-bottom-style: ridge;
+	border-bottom-color: #82c434;
+	position: relative;
+	top: 35px;
+	color: #fff;
+}
+
+.coloor {
+	color: #fff;
+	font-size: 16px;
+}
+
+.php {
+	color: #fff;
+}
+
+#team {
+	position: relative;
+	top: 40px;
+}
+
+.ourteam {
+	font-size: 45px;
+	border-bottom-style: ridge;
+	border-bottom-color: #82c343;
+	width: 18%;
+	font-weight: bold;
+}
+
+.team-member {
+	text-align: center;
+	margin-top: 50px;
+}
+
+.icon i{
+    font-size: 20px;
+    height: 50px;
+    width: 50px;
+    background-color: #98e698;
+    padding: 18px;
+    border-radius: 50%;
+}
+
+.icon i:hover {
+	background-color: #46d246;
+}
+
+.footer {
+	width: 100%;
+	min-height: 400px;
+	background-color: #282e3e;
+	position: relative;
+	top: 150px;
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 500px) {
+	.carousel-caption {
+	color: #fff;
+	position: absolute;
+	top: 35%;
+	left: -20px;
+}
+
+b{
+	font-size: 20px;
+	border-bottom-style: ridge;
+	font-weight: bold;
+	border-bottom-color: #82c343;
+}
+.Services {
+	font-size: 30px;
+	border-bottom-style: ridge;
+	border-bottom-color: #82c343;
+	width: 26%;
+	font-weight: bold;
+}
+#about {
+	width: 100%;
+	min-height: 600px;
+	background-color: #282e3e;
+	margin-top: 50px;
+}
+
+.aboutcompany {
+	width: 35%;
+	font-size: 20px;
+	border-bottom-style: ridge;
+	border-bottom-color: #82c434;
+	position: relative;
+	top: 35px;
+	color: #fff;
+}
+#team {
+	position: relative;
+	top: 40px;
+}
+
+.ourteam {
+	font-size: 25px;
+	border-bottom-style: ridge;
+	border-bottom-color: #82c343;
+	width: 25%;
+	font-weight: bold;
+}}
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+	.carousel-caption {
+	color: #fff;
+	position: absolute;
+	top: 35%;
+	left: -20px;
+}
+
+b{
+	font-size: 30px;
+	border-bottom-style: ridge;
+	font-weight: bold;
+	border-bottom-color: #82c343;
+}
+.Services {
+	font-size: 30px;
+	border-bottom-style: ridge;
+	border-bottom-color: #82c343;
+	width: 26%;
+	font-weight: bold;
+}
+#about {
+	width: 100%;
+	min-height: 600px;
+	background-color: #282e3e;
+	margin-top: 50px;
+}
+
+.aboutcompany {
+	width: 38%;
+	font-size: 30px;
+	border-bottom-style: ridge;
+	border-bottom-color: #82c434;
+	position: relative;
+	top: 35px;
+	color: #fff;
+}
+#team {
+	position: relative;
+	top: 40px;
+}
+
+.ourteam {
+	font-size: 35px;
+	border-bottom-style: ridge;
+	border-bottom-color: #82c343;
+	width: 30%;
+	font-weight: bold;
+}}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+	.carousel-caption {
+	color: #fff;
+	position: absolute;
+	top: 35%;
+	left: -20px;
+}
+
+b{
+	font-size: 45px;
+	border-bottom-style: ridge;
+	font-weight: bold;
+	border-bottom-color: #82c343;
+}
+#about {
+	width: 100%;
+	min-height: 600px;
+	background-color: #282e3e;
+	margin-top: 50px;
+}
+
+.aboutcompany {
+	width: 33%;
+	font-size: 55px;
+	border-bottom-style: ridge;
+	border-bottom-color: #82c434;
+	position: relative;
+	top: 35px;
+	color: #fff;
+}
+#team {
+	position: relative;
+	top: 40px;
+}
+
+.ourteam {
+	font-size: 45px;
+	border-bottom-style: ridge;
+	border-bottom-color: #82c343;
+	width: 18%;
+	font-weight: bold;
+}
+.Services {
+	font-size: 45px;
+	border-bottom-style: ridge;
+	border-bottom-color: #82c343;
+	width: 17%;
+	font-weight: bold;
+}}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {...}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {...}
